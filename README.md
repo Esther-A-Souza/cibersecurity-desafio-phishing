@@ -14,8 +14,12 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.instagram.com
 
-### Resutados
+### Resultados
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/user-attachments/assets/abbd0cc8-4192-4d24-a894-ebf9fcdcbbfa)
+
+![image](https://github.com/user-attachments/assets/6b1772e1-d4ac-46bd-9020-7a57be6d3bcd)
+
+
